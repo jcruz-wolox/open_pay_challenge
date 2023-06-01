@@ -21,11 +21,11 @@
 
 ![Captura de pantalla 2023-06-01 a la(s) 12 55 37](https://github.com/jcruz-wolox/open_pay_challenge/assets/51958340/123c700b-e6d1-4e32-b993-742643ab7197)
 
-### What to add?:
+## What to add?
 *  Login.
 *  Location screen.
 *  Google Analytics.
 
-### Improve:
+## What to Improve?
 * Styles.
 * Implement Jetpack Compose (for example, use LazyRow to movies list)
