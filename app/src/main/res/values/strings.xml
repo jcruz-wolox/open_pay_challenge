@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Openpay challenge</string>
+    <string name="next">Next</string>
+    <string name="ok">OK</string>
+    <string name="action_profile">Profile</string>
+    <string name="action_movies">Movies</string>
+    <string name="previous">Previous</string>
+    <string name="details_fragment_label">Details</string>
+    <string name="top_rated">TRENDING</string>
+    <string name="popular">MORE POPULAR</string>
+    <string name="recommended">RECOMMEND</string>
+    <string name="no_results">No results</string>
+    <string name="movie_plot">Description</string>
+    <string name="action_images">Pictures</string>
+    <string name="home_fragment_label">Home</string>
+    <string name="watch_trailer">See trailer</string>
+    <string name="title_home">Home</string>
+    <string name="watch_trailer_error">Trailer could not be loaded</string>
+    <string name="upload_image_title">Load image</string>
+    <string name="error_loading_data">Error loading information</string>
+    <string name="try_later">Try later</string>
+    <string name="your_movies_rated">Your rated movies</string>
+    <string name="upload_from_camera">Load from camera</string>
+    <string name="success_uploading_image">Image loaded successfully</string>
+    <string name="welcome_message">¡Welcome %1$s!</string>
+    <string name="upload_from_gallery">Load from gallery</string>
+    <string name="rationale_title">Permission is required</string>
+    <string name="error_uploading_image">Error loading image, try later</string>
+    <string name="rationale_description">It is necessary to grant permission for the correct operation of the application, you can do it from the system configuration.</string>
+</resources>
